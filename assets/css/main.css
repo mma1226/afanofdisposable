@@ -1,0 +1,72 @@
+body{
+	background: #FF008A ;
+
+}
+
+
+
+
+img{
+    display: block;
+    position: absolute;
+    top: 10%;
+left:20%;
+width: 20%;
+}
+
+
+
+.center {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.nav {
+  display:flex;
+  min-height: 200px;
+  justify-content: space-between;
+}
+
+.nav div {
+  /*background-color: bisque;*/
+}
+
+.button {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: 'Lato', sans-serif;
+  color: black;
+  text-decoration: none;
+}
+
+.button a {
+  text-decoration: none;
+  color: black;
+}
+
+.button:hover { text-decoration: underline;}
+
+
+
+
+
+
+
+.fa-user:hover {
+  color: #eee;
+/*.camera {color: black;
+position: absolute;
+top:0%;
+left:0%;}
+
+.film {color: black;
+position: absolute;
+top:0%;
+left:100%;}*/
+
+.lens {}
